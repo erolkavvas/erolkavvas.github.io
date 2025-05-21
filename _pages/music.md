@@ -43,4 +43,4 @@ Here’s a showcase of my music projects:
 
 ![Erol Drumming]({{ "/images/erol_drumming_3.jpg" | prepend: site.baseurl }})
 
-![Erol Drumming]({{ "/images/erol_drumming_4.heic" | prepend: site.baseurl }})
+<!-- ![Erol Drumming]({{ "/images/erol_drumming_4.heic" | prepend: site.baseurl }}) -->
