@@ -1,8 +1,13 @@
 ---
-layout: page
+title: "Science"
+permalink: /science/
+---
+
+<!-- ---
 title: "Publications"
 permalink: /publications/
----
+author_profile: true
+--- -->
 
 yooo, You can find my articles on [**my Google Scholar profile**](https://scholar.google.com/citations?user=7kVg1RMAAAAJ&hl=en).
 
