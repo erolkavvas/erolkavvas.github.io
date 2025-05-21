@@ -12,6 +12,8 @@ redirect_from:
 * My research interests include explainable AI, systems biology, biological 'omics analysis, and evolutionary game theory.
 * I enjoy making music, working out, playing video games, and traveling!
 
+![AGD Conference]({{ "/images/AGD_conference_copy.jpg" | prepend: site.baseurl }})
+
 What's New?
 ======
 * I'm unemployed and taking life easy. I'm starting to apply to jobs again.
