@@ -6,8 +6,6 @@ permalink: /music/
 * I've been playing drums for 18 years, and guitar, bass, and synth for 6 years.
 * My favorite genres are punk, emo, indie rock, and shoegaze.
 
-![Erol Drumming]({{ "/images/erol_drumming_1.JPG" | prepend: site.baseurl }})
-
 Here’s a showcase of my music projects:
 
 - [**Dread Spire**](https://dreadspire.bandcamp.com/): (2021-current) Sludged Doom Metal duo (Oakland/Davis)
@@ -35,3 +33,14 @@ Here’s a showcase of my music projects:
 - [**Doodle**](https://doodlemusic.bandcamp.com/album/leviathan-99): (2006-2011) Indie Rock, Post-Punk 3-piece (Davis)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1074697630/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://doodlemusic.bandcamp.com/album/leviathan-99">Leviathan 99 by Doodle</a></iframe>
+
+
+# Photos 
+
+![Erol Drumming]({{ "/images/erol_drumming_1.JPG" | prepend: site.baseurl }})
+
+![Erol Drumming]({{ "/images/erol_drumming_2.jpg" | prepend: site.baseurl }})
+
+![Erol Drumming]({{ "/images/erol_drumming_3.jpg" | prepend: site.baseurl }})
+
+![Erol Drumming]({{ "/images/erol_drumming_4.heic" | prepend: site.baseurl }})
