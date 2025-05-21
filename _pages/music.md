@@ -27,6 +27,6 @@ Here’s a showcase of my music projects:
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2464931976/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://moraymusic.bandcamp.com/album/into-the-departing-light-ep">Into The Departing Light EP by Moray</a></iframe>
 
-- [**Doodle**](https://doodlemusic.bandcamp.com/album/leviathan-99): (2003-2011) Indie Rock, Post-Punk 3-piece (Davis)
+- [**Doodle**](https://doodlemusic.bandcamp.com/album/leviathan-99): (2006-2011) Indie Rock, Post-Punk 3-piece (Davis)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1074697630/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://doodlemusic.bandcamp.com/album/leviathan-99">Leviathan 99 by Doodle</a></iframe>
