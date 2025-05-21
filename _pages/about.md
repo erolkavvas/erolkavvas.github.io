@@ -21,7 +21,8 @@ What's New?
 
 Music
 ======
-* I've been playing drums for 18 years and have written +10 EPs and albums (see the [Music](https://erolkavvas.github.io/music/) tab for details).
+* I've been playing drums for 18 years, and guitar, bass, and synth for 6 years. 
+* I have written numerous EPs and albums (see the [Music](https://erolkavvas.github.io/music/) tab for details).
 * I currently play drums for [Dread Spire](https://open.spotify.com/artist/19sbutOT1IUBohowndpZTD?si=OYULTN-3SqqovcELIEjdug), a bay area sludge doom metal duo.
 
 ![Erol Drumming]({{ "/images/erol_drumming_1.JPG" | prepend: site.baseurl }})
