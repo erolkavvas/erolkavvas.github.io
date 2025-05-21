@@ -15,8 +15,7 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+
     
 
 
@@ -34,6 +33,9 @@ main:
 
   - title: "CV"
     url: /cv/
+
+  - title: "Blog Posts"
+    url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
