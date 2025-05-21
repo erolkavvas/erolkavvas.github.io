@@ -3,6 +3,11 @@ title: "Music"
 permalink: /music/
 ---
 
+* I've been playing drums for 18 years, and guitar, bass, and synth for 6 years.
+* My favorite genres are punk, emo, indie rock, and shoegaze.
+
+![Erol Drumming]({{ "/images/erol_drumming_1.JPG" | prepend: site.baseurl }})
+
 Here’s a showcase of my music projects:
 
 - [**Dread Spire**](https://dreadspire.bandcamp.com/): (2021-current) Sludged Doom Metal duo (Oakland/Davis)
