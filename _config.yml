@@ -22,7 +22,7 @@ repository               : "erolkavvas/erolkavvas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "turkey_2024_1.JPG"
+  avatar           : "waterfall_nz_crop.jpg" # "turkey_2024_1.JPG"
   name             : "Erol Kavvas"
   pronouns         : # example: "she/her"  
   bio              : "Data Scientist, Musician"
