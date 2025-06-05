@@ -28,8 +28,8 @@ main:
   # - title: "Talks"
   #   url: /talks/    
 
-  - title: "Music"
-    url: "/music/"
+  # - title: "Music"
+  #   url: "/music/"
 
   - title: "CV"
     url: /cv/
