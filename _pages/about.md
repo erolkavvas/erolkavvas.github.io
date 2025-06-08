@@ -17,7 +17,7 @@ redirect_from:
 
 What's New?
 ======
-* I'm quit my job in February '25 to take a break and figure out what I want to do. I plan on working again starting in the fall.
+* I quit my job in February '25 to take a break. I hope to start working again in the summer or fall.
 * My last project involved developing an interpretable LLM for predicting the functional impact of exon splicing on protein function (no links to project are available due to company NDA).
 
 <!-- ![Erol Drumming]({{ "/images/erol_drumming_1.JPG" | prepend: site.baseurl }}) -->
